@@ -12,7 +12,7 @@ you can easily download the .zip file that exist on https://github.com/Lo-Agency
  then open the vs code and open the folder in which the project file exist after that write npm start to run the project.
 
  # run
- to serve the file by using this webserver you should put the files in "web" directory or in another folder which exist in web directory that name is "pages".
+ to serve the file by using this webserver you should creat a  new folder which name must be "web" and you can make another folder in "web" which name must be "pages" then you can put the file which want you run on these two folder.
 
 then run the script in your terminal in vs code by writing npm run start, 
 
